@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { Button } from './Button';
-import { Input } from './Input';
+import { Button } from './components';
+import { Input } from './components';
 
 const App: React.FC = () => {
     const [selectedComponent, setSelectedComponent] = useState<string>('Button');
