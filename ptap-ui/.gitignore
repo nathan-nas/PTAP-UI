@@ -44,3 +44,4 @@ yarn.lock
 *.njsproj
 *.sln
 *.sw? 
+*storybook.log
